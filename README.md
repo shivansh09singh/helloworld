@@ -1,2 +1,4 @@
-# helloworld
-This is just a demo about how to create a repository
+Hi, I am shivansh singh.
+I'm new to Github
+I'm completing the tutorials to learn to use Github
+I've completed the editing features
